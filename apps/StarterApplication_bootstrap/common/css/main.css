@@ -1,0 +1,55 @@
+/*
+COPYRIGHT LICENSE: This information contains sample code provided in source code form. You may copy, modify, and distribute
+these sample programs in any form without payment to IBM® for the purposes of developing, using, marketing or distributing
+application programs conforming to the application programming interface for the operating platform for which the sample code is written.
+Notwithstanding anything to the contrary, IBM PROVIDES THE SAMPLE SOURCE CODE ON AN "AS IS" BASIS AND IBM DISCLAIMS ALL WARRANTIES,
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND ANY WARRANTY OR CONDITION OF NON-INFRINGEMENT. IBM SHALL NOT BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE SAMPLE SOURCE CODE.
+IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
+*/
+
+body {
+	padding: 70px 0;
+}
+
+.btn-group {
+	float: right !important;
+	margin: 10px;
+}
+
+article {
+	padding: 10px;
+}
+
+article img {
+	display: block;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.nav-pills > li + li {
+	margin-left: 0;
+}
+
+.nav-pills > li {
+	width: 50%;
+	text-align: center;
+}
+
+.btn-group {
+	margin: 20px 15px 10px 15px;
+}
+
+.navbar-brand {
+	height: 64px;
+	padding: 25px 15px 0 15px;
+}
+
+h2 {
+	margin-top:0;
+}
+
+.navbar {
+	min-height:0;
+}

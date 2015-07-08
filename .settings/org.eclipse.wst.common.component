@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="StarterApplication_bootstrap">
+        <wb-resource deploy-path="/" source-path="/apps/StarterApplication_bootstrap/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/StarterApplication_bootstrap/iphone"/>
+        <wb-resource deploy-path="/" source-path="/apps/StarterApplication_bootstrap/android"/>
+        <property name="context-root" value="StarterApplication_bootstrap"/>
+    </wb-module>
+</project-modules>

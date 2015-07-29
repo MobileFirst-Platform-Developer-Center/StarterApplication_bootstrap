@@ -57,3 +57,6 @@ derby.log
 #
 .jazzignore
 /pom.xml
+apps/StarterApplication_bootstrap/android/native
+apps/StarterApplication_bootstrap/iphone/native
+*.backup.zip
